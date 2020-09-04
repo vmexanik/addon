@@ -1,3 +1,4 @@
+пиписка писписка
 <script type="text/javascript" src="/libp/js/table.js"></script>
 
 {assign var=iColCount value=$aColumn|@count}
